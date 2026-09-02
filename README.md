@@ -48,4 +48,4 @@ A partir de las visualizaciones y filtros temporales del dashboard, se determin�
 
 ---
 **Desarrollado por:** Cristhofer Guzmán Kroll  
-*Estudiante de Ingeniería en Informática | Analytics & Data Engineering*
+*Profesional en Ingeniería Eléctrica y Automatización Industrial, avanzando en Ingeniería en Informática | Analytics & Data Engineering*
